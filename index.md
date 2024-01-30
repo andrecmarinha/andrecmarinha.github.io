@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="files/photo.JPG" style="width: 45%; height: 45%" >
+<img src="files/IMG_5030_bw.jpeg" style="width: 45%; height: 45%" >
 
 I am an assistant professor of political science at the [Universidad Carlos III de Madrid](https://www.uc3m.es/social-sciences-department/home) and a research fellow at the [Carlos III - Juan March Institute](https://ic3jm.es/).
 
